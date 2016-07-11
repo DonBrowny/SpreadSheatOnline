@@ -1,0 +1,7 @@
+C:\Users\kishore\Documents\Visual Studio 2012\Projects\WebSite1\BusinessService\bin\Debug\BusinessService.dll
+C:\Users\kishore\Documents\Visual Studio 2012\Projects\WebSite1\BusinessService\bin\Debug\BusinessService.pdb
+C:\Users\kishore\Documents\Visual Studio 2012\Projects\WebSite1\BusinessService\obj\Debug\BusinessService.dll
+C:\Users\kishore\Documents\Visual Studio 2012\Projects\WebSite1\BusinessService\obj\Debug\BusinessService.pdb
+C:\Users\kishore\Documents\Visual Studio 2012\Projects\WebSite1\BusinessService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kishore\Documents\Visual Studio 2012\Projects\WebSite1\BusinessService\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\kishore\Documents\Visual Studio 2012\Projects\WebSite1\BusinessService\bin\Debug\Newtonsoft.Json.xml
